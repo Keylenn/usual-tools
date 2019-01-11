@@ -1,5 +1,5 @@
 #### markdown的使用
-[mahua-----一个在线编辑markdown文档的编辑器](http://mahua.jser.me/)
+[Cmd Markdown 编辑阅读器](https://www.zybuluo.com/mdeditor)
 
 [markdownpad](http://markdownpad.com/)
 
